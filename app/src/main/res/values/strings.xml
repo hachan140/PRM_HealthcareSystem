@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="hintUsername">Username</string>
+    <string name="hintPassword">Password</string>
+</resources>
