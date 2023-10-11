@@ -4,4 +4,5 @@
     <string name="hintPassword">Password</string>
     <string name="hintEmail">Email</string>
     <string name="hintConfirmPassword">Confirm Password</string>
+    <string name="titleText">HealthCare System</string>
 </resources>
