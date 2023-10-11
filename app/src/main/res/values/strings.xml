@@ -5,4 +5,5 @@
     <string name="hintEmail">Email</string>
     <string name="hintConfirmPassword">Confirm Password</string>
     <string name="titleText">HealthCare System</string>
+    <string name="top_doctor">Top Doctor</string>
 </resources>
