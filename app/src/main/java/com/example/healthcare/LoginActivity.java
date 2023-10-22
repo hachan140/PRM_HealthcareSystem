@@ -43,7 +43,9 @@ public class LoginActivity extends AppCompatActivity {
                         editor.apply();
                         startActivity(new Intent(LoginActivity.this, HomeActivity.class));
                     }
-                    Toast.makeText(getApplicationContext(), "Invalid user", Toast.LENGTH_SHORT).show();
+                    else{
+                        Toast.makeText(getApplicationContext(), "Invalid user", Toast.LENGTH_SHORT).show();
+                    }
                 }
             }
         });
